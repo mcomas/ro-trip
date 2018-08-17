@@ -12,14 +12,13 @@
 * 02 setembre. Constanța &rightarrow; Bucharest (2h30min). Companyia: CFR Călători
 
 
-## Desplaçaments amb cotxe
+## Desplaçaments amb cotxe ([ruta google](https://goo.gl/maps/7nmFuL6A7762))
 * 21 agost. Otopeni Airport &rightarrow; Braşov (2h55min)
 * 23 agost. Braşov &rightarrow; Sibiu (2h30min)
-* 24 agost. Sibiu &rightarrow; Scarisoara (4h)
+* 24 agost. Sibiu &rightarrow; Scarisoara (2h50min)
 * 26 agost. Scarisoara &rightarrow; Petroșani (3h47min)
 * 28 agost. Petroșani &rightarrow; Brezoi (2h20min)
 * 29 agost. Brezoi &rightarrow; Bucharest (3h12min)
-
 
 ## Dormir
 
@@ -33,3 +32,23 @@
 * 31-01 Airplane Residence, Otopeni. [booking.com/hotel/ro/airplane-residence.html](https://www.booking.com/hotel/ro/airplane-residence.html)
 * 01-02 ???,Constanța.
 * 02-03 ???, Otopeni.
+
+## Llocs
+
+#### Brasov (2 nits)
+
+* &rightarrow; PN Bucegi (1h30min)
+* &rightarrow; PN Piatra Craiuliu (1h15min de Braşov)
+* &rightarrow; Bran (30min de Braşov, a mig camí de PN Piatra Craiuliu, 2h10min de Sibiu)
+    * Castell Bran (més o menys una hora)
+
+#### Sibiu (1 nit)
+
+#### Scarisoara (2 nits)
+
+* &rightarrow; PN Apuseni (1h10min)
+* &rightarrow; Cova gel (3min)
+
+#### Petroșani(2 nits)
+
+#### Brezoi (1 nit)
