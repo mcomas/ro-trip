@@ -35,7 +35,8 @@
 
 ## Llocs
 
-#### Brasov (2 nits)
+#### Brasov (2 nits).
+Temperatura: 14º-27º, Precipitació: 40%,50%,80%. [Enllaç a previsió](https://weather.com/weather/tenday/l/ROXX0002:1:RO).
 
 * &rightarrow; PN Bucegi (1h30min)
 * &rightarrow; PN Piatra Craiuliu (1h15min de Braşov)
@@ -43,12 +44,23 @@
     * Castell Bran (més o menys una hora)
 
 #### Sibiu (1 nit)
+Temperatura: 15º-29º, Precipitació: 20%,40% [Enllaç a previsió](https://weather.com/weather/tenday/l/ROXX0014:1:RO)
 
 #### Scarisoara (2 nits)
+Temperatura: 13º-23º,Precipitació: 80%,80%,80% [Enllaç a previsió](https://weather.com/weather/tenday/l/ROXX1845:1:RO)
 
 * &rightarrow; PN Apuseni (1h10min)
 * &rightarrow; Cova gel (3min)
 
-#### Petroșani(2 nits)
+#### Petroșani (2 nits)
+Temperatura: 12º-24º, Precipitació: 50%,80%,50% [Enllaç a previsió](https://weather.com/weather/tenday/l/ROXX0036:1:RO)
+
 
 #### Brezoi (1 nit)
+Temperatura: 14º-27º, Precipitació: 40%,40% [Enllaç a previsió](https://weather.com/weather/tenday/l/ROXX0537:1:RO)
+
+#### Bucharest (3 nits)
+Temperatura: 16º-29º, Precipitació: 10%,10%,0%,0% [Enllaç previsió](https://weather.com/weather/tenday/l/ROXX0003:1:RO)
+
+#### Constanța (1 nit)
+Temperatura: 18º-27º, Precipitació: 0%,0% [Enllaç previsió](https://weather.com/weather/tenday/l/ROXX0034:1:RO)
